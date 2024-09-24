@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张艺
+title: 张 艺
 
 # Name pronunciation (optional)
 name_pronunciation: i ʈʂɑŋ
